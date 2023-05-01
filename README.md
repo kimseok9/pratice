@@ -1,3 +1,1 @@
-# pratice
-# pratice
-# pratice
+# 반복문 코드 수정 5/1
